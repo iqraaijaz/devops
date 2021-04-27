@@ -3,4 +3,5 @@
 3-ansible
 4-kubernetess
 5-docker
+6-jenkins
 
